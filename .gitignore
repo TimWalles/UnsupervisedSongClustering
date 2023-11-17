@@ -3,4 +3,3 @@
 .cache*
 *.csv
 __pycache__
-*.png
